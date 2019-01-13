@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Edit";
+}
+@model Sistem.DAL.Sehir
+<div class="row">
+    <div class="col-md-12">
+        <form action="/Home/Editle/@Model.SehirId" method="post">
+            <table class="table-hover">
+                <tr>
+                    <th>
+                        İsim
+                    </th>
+                    <th>
+                        Nüfüs
+                    </th>
+                    <th>
+                        Bölge
+
+                    </th>
+                    <th>
+                        Ülke
+                    </th>
+                    <th>
+                        Kurtuluş Yılı
+                    </th>
+
+                </tr>
+                @if (Model != null)
+            {
+
+                    <tr>
+                        <td><input type="text" value="@Model.Adi" name="Adi" />   </td>
+
+                        <td> <input type="text" value="@Model.Nufusu" name="Nufusu"/></td>
+                        <td><input type="text" value="@Model.Bolgesi" name="Bolgesi"/></td>
+
+                        <td><input type="text" value="@Model.KurutulusYili" name="KurutulusYili"/>   </td>
+                        <td>  <input type="text" value="@Model.Ulkesi" name="Ulkesi"/> </td>
+                    </tr>
+
+            }
+            </table>
+            <button class="btn btn-lg btn-danger">Edit</button>
+        </form>
+    </div>
+</div>

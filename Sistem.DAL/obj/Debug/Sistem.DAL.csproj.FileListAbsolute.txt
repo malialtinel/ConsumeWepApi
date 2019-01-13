@@ -1,0 +1,10 @@
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\Sistem.DAL.dll.config
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\Sistem.DAL.dll
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\Sistem.DAL.pdb
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\EntityFramework.dll
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\EntityFramework.xml
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\obj\Debug\Sistem.DAL.csprojResolveAssemblyReference.cache
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\obj\Debug\Sistem.DAL.dll
+c:\users\alial\documents\visual studio 2015\Projects\SistemDeneme\Sistem.DAL\obj\Debug\Sistem.DAL.pdb

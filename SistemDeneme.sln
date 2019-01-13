@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistem.DAL", "Sistem.DAL\Sistem.DAL.csproj", "{5B5632C1-EA8E-4B18-8209-4FF646706DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemWebApi", "SistemWebApi\SistemWebApi.csproj", "{8478F8A4-11A3-4275-9EB7-3A691A8D7D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemDenemeUI", "SistemDenemeUI\SistemDenemeUI.csproj", "{0CC87257-F5D3-46C4-990F-8346656D6929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5632C1-EA8E-4B18-8209-4FF646706DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5632C1-EA8E-4B18-8209-4FF646706DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5632C1-EA8E-4B18-8209-4FF646706DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5632C1-EA8E-4B18-8209-4FF646706DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8478F8A4-11A3-4275-9EB7-3A691A8D7D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8478F8A4-11A3-4275-9EB7-3A691A8D7D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8478F8A4-11A3-4275-9EB7-3A691A8D7D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8478F8A4-11A3-4275-9EB7-3A691A8D7D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC87257-F5D3-46C4-990F-8346656D6929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC87257-F5D3-46C4-990F-8346656D6929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC87257-F5D3-46C4-990F-8346656D6929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC87257-F5D3-46C4-990F-8346656D6929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
